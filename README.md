@@ -1,11 +1,4 @@
-<p align="center"><a href="http://oversip.net"><img src="http://oversip.net/images/oversip-banner.png"/></a></p>
-
-[![Build Status](https://secure.travis-ci.org/versatica/OverSIP.png?branch=master)](http://travis-ci.org/versatica/OverSIP)
-
-## Website
-
-* [www.oversip.net](http://www.oversip.net)
-
+ 
 
 ## Overview
 
@@ -23,20 +16,11 @@ OverSIP is a powerful and flexible SIP proxy & server by the authors of [RFC 711
 
 ## Documentation
 
-* [www.oversip.net/documentation](http://www.oversip.net/documentation/)
+* [documentation](http://www.oversip.net/documentation/)
 
+* Forum, ask any questation directly. 
+https://groups.google.com/group/oversip
 
-## Authors
-
-### Main Author
-
-* Iñaki Baz Castillo (<ibc@aliax.net> | [github](https://github.com/ibc) | [twitter](https://twitter.com/ibc_tw))
-
-### Contributors
-
-* José Luis Millán (<jmillan@aliax.net> | [github](https://github.com/jmillan) | [twitter](https://twitter.com/jomivi))
-* Saúl Ibarra Corretgé (<saghul@gmail.com> | [github](https://github.com/saghul) | [twitter](https://twitter.com/saghul))
-* Jon Bonilla (<manwe@aholab.ehu.es> |  [github](https://github.com/manwe) | [twitter](https://twitter.com/jbmanwe))
 
 ## License
 
