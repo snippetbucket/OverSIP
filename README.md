@@ -16,7 +16,7 @@ OverSIP is a powerful and flexible SIP proxy & server by the authors of [RFC 711
 
 ## Documentation
 
-* [documentation](http://www.oversip.net/documentation/)
+* [documentation](http://snippetbucket.com/tag/oversip/)
 
 * Forum, ask any questation directly. 
 https://groups.google.com/group/oversip
